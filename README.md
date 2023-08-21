@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xufeiang42.
+- 👀 I’m interested in Computer Science undergrad diving into Rust. 
+- 🌱 I’m currently learning Passionate about systems programming and always ready for a challenge.
